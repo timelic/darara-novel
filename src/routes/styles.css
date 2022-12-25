@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap');
+:root {
+	--font-seilf: 'Noto Serif SC', serif;
+	--font-size: 18px;
+	--line-height: 2rem;
+	--p-margin-y: 5px;
+	--margin-top: 2rem;
+	--margin-bottom: 2rem;
+	--padding-x: 6rem;
+}
+
+body {
+	font-size: var(--font-size);
+	margin: 0;
+	padding-top: var(--margin-top);
+}
+
+p {
+	margin: 0;
+}
